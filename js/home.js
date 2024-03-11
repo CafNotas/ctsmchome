@@ -395,3 +395,171 @@ farm.onclick = function clear() {
 
     `;
 }
+
+var notas = document.getElementById("notas");
+
+notas.onclick = function clear() {
+    let cont = document.getElementById("space");
+    cont.innerHTML = "";
+    cont.innerHTML = ` <div class="content">
+    <div class="bt">
+        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1k_uLfMnK54yVOdtXqXGyRjQci26EpbYrCPLHKCCcsek/edit#gid=0" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
+
+            </div>
+        </a>
+        <p class="m-title">CONTROLE DE PROCESSOS</p>
+    </div>
+    <div class="bt">
+        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1vVeHCPjhsgQHqvi018Kl4SmBvOG3EG9LWtYmr8lk40I/edit#gid=0" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
+
+            </div>
+        </a>
+        <p class="m-title">CONTROLE DE LICITAÇÕES</p>
+    </div>
+    <div class="bt">
+        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1Kfvj683CH2Dim3jFR5WbQWUMU3V1hGWhKiaFQFybJnc/edit#gid=0" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
+
+            </div>
+        </a>
+        <p class="m-title">CONTROLE DE ORDENS DE FORNECIMENTO</p>
+    </div>
+    <div class="bt">
+        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
+
+            </div>
+        </a>
+        <p class="m-title">CONTROLE DE ESTOQUE E AQUISIÇÃO</p>
+    </div>
+    <div class="bt">
+        <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
+            <div>
+                <img class="logo-op"
+                    src="./img/DASHBOARD.png"
+                    alt="logo DASHBOARD">
+
+            </div>
+        </a>
+        <p class="m-title">DASHBOARD DE FORNECIMENTO</p>
+    </div>
+    <div class="bt">
+        <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
+            <div>
+                <img class="logo-op"
+                    src="./img/ENTREGA.png"
+                    alt="logo ENTREGA">
+
+            </div>
+        </a>
+        <p class="m-title">RELATÓRIO DE RECEBIMENTO</p>
+    </div>
+    <div class="bt">
+    <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
+        <div>
+            <img class="logo-op"
+                src="./img/AGENDA.png"
+                alt="logo ENTREGA">
+
+        </div>
+    </a>
+    <p class="m-title">LISTA DE ENTREGAS AGENDADAS</p>
+</div>
+    </div>`
+}
+
+// =================================================================================================
+
+var logistc = document.getElementById("coord");
+
+logistc.onclick = function clear() {
+    let cont = document.getElementById("space");
+    cont.innerHTML = "";
+    cont.innerHTML = `<div class="content">
+    
+    <div class="bt">
+        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1Kfvj683CH2Dim3jFR5WbQWUMU3V1hGWhKiaFQFybJnc/edit#gid=0" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
+
+            </div>
+        </a>
+        <p class="m-title">CONTROLE DE ORDENS DE FORNECIMENTO</p>
+    </div>
+    <div class="bt">
+        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
+
+            </div>
+        </a>
+        <p class="m-title">CONTROLE DE ESTOQUE E AQUISIÇÃO</p>
+    </div>
+
+    <div class="bt">
+<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1E9WnXNCCtgfXAoG1-v1V3jVPMqFV1JZC1SdaXaGcm5Q/edit#gid=835047668" target="_blank">
+    <div>
+        <img class="logo-pln"
+        src="./img/logPln.png"
+            alt="logo PLANILHA">
+
+    </div>
+</a>
+<p class="m-title">RESPONSABILIDADE TÉCNICA</p>
+</div>
+
+
+    <div class="bt">
+        <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
+            <div>
+                <img class="logo-op"
+                    src="./img/DASHBOARD.png"
+                    alt="logo DASHBOARD">
+
+            </div>
+        </a>
+        <p class="m-title">DASHBOARD DE FORNECIMENTO</p>
+    </div>
+
+    <div class="bt">
+        <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
+            <div>
+                <img class="logo-op"
+                    src="./img/ENTREGA.png"
+                    alt="logo ENTREGA">
+
+            </div>
+        </a>
+        <p class="m-title">RELATÓRIO DE RECEBIMENTO</p>
+    </div>
+    <div class="bt">
+    <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
+        <div>
+            <img class="logo-op"
+                src="./img/AGENDA.png"
+                alt="logo ENTREGA">
+
+        </div>
+    </a>
+    <p class="m-title">LISTA DE ENTREGAS AGENDADAS</p>
+</div>
+    </div>`;
+}
