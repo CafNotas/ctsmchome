@@ -202,8 +202,13 @@ a {
     margin: auto;   
 }
 
+.logo-pln {
+    width: 55px;
+    margin: auto;   
+}
+
 .logo-pnm {
-    width: 70px;
+    width: 65px;
     margin: auto;
     
 }
