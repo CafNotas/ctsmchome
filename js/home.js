@@ -255,6 +255,18 @@ logistc.onclick = function clear() {
         <p class="m-title">INVENTÁRIO</p>
     </div>
 
+    <div class="bt">
+        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1X2wMVIRl5KsRn_tC84ebAASmNhzRFwu_vrIGomIjzI8/edit#gid=0" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo prefeitura">
+
+            </div>
+        </a>
+        <p class="m-title">CONTROLE DE B.E.B.R.</p>
+    </div>
+
 </div>`;
 }
 
@@ -289,6 +301,31 @@ farm.onclick = function clear() {
 </a>
 <p class="m-title">CTSMC - COMPONENTE ESTRATÉGICO</p>
 </div>
+
+<div class="bt">
+<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1E9WnXNCCtgfXAoG1-v1V3jVPMqFV1JZC1SdaXaGcm5Q/edit#gid=835047668" target="_blank">
+    <div>
+        <img class="logo-pln"
+        src="./img/logPln.png"
+            alt="logo PLANILHA">
+
+    </div>
+</a>
+<p class="m-title">RESPONSABILIDADE TÉCNICA</p>
+</div>
+
+<div class="bt">
+<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1LD-7n8RqQolXptRfBQieIXgkJ_v22xLt_UTCkJWPLcA/edit#gid=280970307" target="_blank">
+    <div>
+        <img class="logo-pln"
+        src="./img/logPln.png"
+            alt="logo PLANILHA">
+
+    </div>
+</a>
+<p class="m-title">MEDICAMENTOS PARA PARKINSON</p>
+</div>
+
 </div>`;
 }
 
@@ -353,7 +390,7 @@ farm.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">FLUXO - ACOMPANHAMENTO DE PEDIDOS</p>
+    <p class="m-title">ACOMPANHAMENTO DE PEDIDOS</p>
 </div>
 
     `;
