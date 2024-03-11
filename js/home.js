@@ -135,7 +135,7 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1k_uLfMnK54yVOdtXqXGyRjQci26EpbYrCPLHKCCcsek/edit#gid=0" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo PLANILHA">
 
@@ -146,7 +146,7 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1vVeHCPjhsgQHqvi018Kl4SmBvOG3EG9LWtYmr8lk40I/edit#gid=0" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo PLANILHA">
 
@@ -157,7 +157,7 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1Kfvj683CH2Dim3jFR5WbQWUMU3V1hGWhKiaFQFybJnc/edit#gid=0" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo PLANILHA">
 
@@ -168,7 +168,7 @@ notas.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo PLANILHA">
 
@@ -223,7 +223,7 @@ logistc.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/12nt-Tvl4Jpzye9f2D1ieC2MKq6O6jtWgUPUWH0IK5zE/edit?pli=1#gid=0" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo prefeitura">
 
@@ -234,7 +234,7 @@ logistc.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1DZemm495IREQBm6mOTpERTstRZlPV0aHND8O2s5HVRo/edit#gid=1426336719" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo prefeitura">
 
@@ -246,7 +246,7 @@ logistc.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/10rcWazxcCs3pNh6mOXxaKS1Jb6WyAyh7xU6N8tQeVnU/edit#gid=1036754280" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo prefeitura">
 
@@ -281,7 +281,7 @@ farm.onclick = function clear() {
 <div class="bt">
 <a class="link-bt" href="https://docs.google.com/spreadsheets/d/116msvyNNo6VqtZf26EyI0tiz6qMUqCfHfgddi7FScK8/edit#gid=1141012546" target="_blank">
     <div>
-        <img class="logo-op"
+        <img class="logo-pln"
         src="./img/logPln.png"
             alt="logo PLANILHA">
 
@@ -301,7 +301,7 @@ farm.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1MXVpd9fTkTyuZ5Gnrp2j9vKnCpP4YCyNTk23XNNdnGQ/edit#gid=412418021" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo PLANILHA">
 
@@ -313,7 +313,7 @@ farm.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1hhpgmirgy0TdOZNdTluateBRj21nHOvUKg0vwR0sRs8/edit#gid=1228655469" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo PLANILHA">
 
@@ -325,7 +325,7 @@ farm.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1OUgpBXV8BqdeGITg96sOZa0jc6kLHTYhDNYV2iaJEXo/edit#gid=0" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo PLANILHA">
 
@@ -336,7 +336,7 @@ farm.onclick = function clear() {
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1BsyGmwzFiha4hOE0LijC3mITu9YHRr5i2pYvw0gVScA/edit#gid=0" target="_blank">
             <div>
-                <img class="logo-op"
+                <img class="logo-pln"
                     src="./img/logPln.png"
                     alt="logo PLANILHA">
 
@@ -347,9 +347,9 @@ farm.onclick = function clear() {
     <div class="bt">
     <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1ey5UvYK4HZawcz6A8ogoaruT6l2t4VPjrBEDern_W3U/edit#gid=611076321" target="_blank">
         <div>
-            <img class="logo-op"
+            <img class="logo-pln"
             src="./img/logPln.png"
-                alt="logo ENTREGA">
+                alt="logo planlha">
 
         </div>
     </a>
