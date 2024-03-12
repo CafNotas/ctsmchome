@@ -149,10 +149,15 @@ a {
     align-items: center;
     text-decoration: none;
     text-align: center;
-   
-    
 }
 
+i{
+    border: 2px solid white;
+    padding: 3px;
+    border-radius: 20%;
+    color:  #0c476e;
+    background-color: white;
+}
 .content {
     
     padding: 10px 10px 10px 10px;
