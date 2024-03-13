@@ -267,6 +267,18 @@ logistc.onclick = function clear() {
         <p class="m-title">CONTROLE DE B.E.B.R.</p>
     </div>
 
+    <div class="bt">
+    <a class="link-bt" href="https://lookerstudio.google.com/reporting/38de69fb-f531-4a4a-b509-eb8721dd13fe/page/orwsD" target="_blank">
+        <div>
+            <img class="logo-pln"
+                src="./img/logistica.png"
+                alt="logo prefeitura">
+
+        </div>
+    </a>
+    <p class="m-title">INFORME DE ROTA</p>
+</div>
+
 </div>`;
 }
 
@@ -492,40 +504,17 @@ logistc.onclick = function clear() {
     cont.innerHTML = `<div class="content">
     
     <div class="bt">
-        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1Kfvj683CH2Dim3jFR5WbQWUMU3V1hGWhKiaFQFybJnc/edit#gid=0" target="_blank">
+        <a class="link-bt" href="https://lookerstudio.google.com/reporting/54f46540-4108-4e97-827a-cdde14149667/page/YQxsD" target="_blank">
             <div>
                 <img class="logo-pln"
-                    src="./img/logPln.png"
+                    src="./img/call.png"
                     alt="logo PLANILHA">
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE ORDENS DE FORNECIMENTO</p>
+        <p class="m-title">STATUS DE <br> COBRANÇAS</p>
     </div>
-    <div class="bt">
-        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
-            <div>
-                <img class="logo-pln"
-                    src="./img/logPln.png"
-                    alt="logo PLANILHA">
-
-            </div>
-        </a>
-        <p class="m-title">CONTROLE DE ESTOQUE E AQUISIÇÃO</p>
-    </div>
-
-    <div class="bt">
-<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1E9WnXNCCtgfXAoG1-v1V3jVPMqFV1JZC1SdaXaGcm5Q/edit#gid=835047668" target="_blank">
-    <div>
-        <img class="logo-pln"
-        src="./img/logPln.png"
-            alt="logo PLANILHA">
-
-    </div>
-</a>
-<p class="m-title">RESPONSABILIDADE TÉCNICA</p>
-</div>
-
+    
 
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
@@ -561,5 +550,42 @@ logistc.onclick = function clear() {
     </a>
     <p class="m-title">LISTA DE ENTREGAS AGENDADAS</p>
 </div>
+
+<div class="bt">
+<a class="link-bt" href="https://lookerstudio.google.com/reporting/38de69fb-f531-4a4a-b509-eb8721dd13fe/page/orwsD" target="_blank">
+    <div>
+        <img class="logo-pln"
+            src="./img/logistica.png"
+            alt="logo prefeitura">
+
+    </div>
+</a>
+<p class="m-title">INFORME <br> DE ROTA</p>
+</div>
+
+<div class="bt">
+        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
+            <div>
+                <img class="logo-pln"
+                    src="./img/logPln.png"
+                    alt="logo PLANILHA">
+
+            </div>
+        </a>
+        <p class="m-title">CONTROLE DE ESTOQUE E AQUISIÇÃO</p>
+    </div>
+
+    <div class="bt">
+<a class="link-bt" href="https://docs.google.com/spreadsheets/d/1E9WnXNCCtgfXAoG1-v1V3jVPMqFV1JZC1SdaXaGcm5Q/edit#gid=835047668" target="_blank">
+    <div>
+        <img class="logo-pln"
+        src="./img/logPln.png"
+            alt="logo PLANILHA">
+
+    </div>
+</a>
+<p class="m-title">RESPONSABILIDADE TÉCNICA</p>
+</div>
+
     </div>`;
 }
