@@ -63,7 +63,7 @@ body {
 }
 
 
-.button {
+/* .button {
     background-color: #0c476e;
     color: white;
     border: none;
@@ -75,7 +75,7 @@ body {
 
 .button:hover {
     background-color: #d60909;
-}
+} */
 
 header {
     border-radius: 10px;
@@ -128,21 +128,20 @@ header {
     margin-bottom: -10px;
 }
 
-.container {
+/* .container {
     width: 100%;
     height: 100%;
     display: flex;
     flex-direction: row;
-}
+} */
 
 .menu {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width: 100vw;
+    width: 100%;
     height: 100%;
     text-align: center;
-    
 }
 
 a {
@@ -151,24 +150,32 @@ a {
     text-align: center;
 }
 
-i{
+i {
     border: 2px solid white;
     padding: 3px;
     border-radius: 20%;
-    color:  #0c476e;
+    color: #0c476e;
     background-color: white;
 }
+
+/* .space-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} */
+
 .content {
-    
     padding: 10px 10px 10px 10px;
-    width: 100vw;
+    width: 100%;
     height: 100%;
     background-color: white;
+
     display: grid;
-    justify-content: center;
     grid-template-columns: repeat(7, 150px);
-    grid-template-rows: 150px 150px;  
+    grid-template-rows: repeat(2, 150px);
     gap: 10px;
+    justify-content: space-around;
 
 }
 
@@ -186,12 +193,12 @@ i{
     font-size: 0.8em;
 }
 
-.link-bt:hover{
+.link-bt:hover {
     width: 105px;
-    border:2px solid var(--orange);    
+    border: 2px solid var(--orange);
 }
 
-.bt{
+.bt {
     width: 160px;
     aspect-ratio: 1/1;
     text-align: center;
@@ -199,35 +206,38 @@ i{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* border:2px solid var(--orange); */
+}
+
+.bt:hover {
+    transform: scale(1.2);
 }
 
 .logo-op {
     width: 50px;
-    margin: auto;   
+    margin: auto;
 }
 
 .logo-pln {
     width: 55px;
-    margin: auto;   
+    margin: auto;
 }
 
 .logo-pnm {
     width: 65px;
     margin: auto;
-    
 }
 
-.horus{
+
+.horus {
     width: 70px;
     height: 20px;
 }
 
-.m-title{
-   width: 150px;
-   font-size: 0.69em;
-   color: var(--cor1);
-   font-weight: bold;
+.m-title {
+    width: 150px;
+    font-size: 0.69em;
+    color: var(--cor1);
+    font-weight: bold;
 }
 
 .link-p {
@@ -248,11 +258,11 @@ i{
 }
 
 .m-link:hover {
-    font-size: 1.1em;
+    transform: scale(1.1);
     color: white;
 }
 
-.contact-block{
+.contact-block {
     background: var(--orange);
     color: var(--cor1);
     width: 500px;
@@ -268,11 +278,12 @@ i{
     align-items: center;
     justify-content: space-around;
 }
-.loc{
+
+.loc {
     width: 50px;
 }
 
-#h-loc{
+#h-loc {
     text-decoration: none;
     color: white;
 }
@@ -291,9 +302,9 @@ footer {
     margin-top: 15px;
 } */
 
-.img-c{
+/* .img-c{
     width: 350px;
-}
+} */
 
 /* .footer{
     display: flex;
@@ -305,61 +316,75 @@ footer {
 
 /* media */
 
-@media (min-width: 815px) {
+@media (max-width: 1600px) {
     html {
-        font-size: 18px;
+        font-size: 1.1rem;
     }
+
+    .space-area {
+        width: 95%;
+
+    }
+
+    .content {
+        grid-template-columns: repeat(auto-fill, 100px);
+        grid-template-rows: repeat(auto-fill, 130px);
+        gap: 3px;
+
+    }
+
+
 }
 
-@media (max-width:692px) {
+@media (max-width:1250px) {
     html {
-        font-size: 14px;
+        font-size: 0.91rem;
     }
 
 }
 
-@media (max-width:660px) {
-
+@media (max-width:800px) {
+    span {
+        display: none;
+     }
+    }
+    
+@media (max-width:376px) {
     html {
-        font-size: 12px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+        font-size: 0.5rem;
     }
 
-    body {
-        font-size: 0.8em;
-    }
-
-    .top {
-        background-image: none;
-    }
-
-    .container {
-        flex-direction: column;
+    header{
+        padding: 0 0 10px 0;
 
     }
 
-    details {
-        margin-top: auto;
+    .bt {
+        width: 100px;
+        font-size: 1.5rem;
     }
 
-    .inicial {
-        margin-bottom: 5px;
-    }
-
-    .secundario {
-        margin-top: auto;
+    #logado {
+        font-size: 1.8rem;
+        text-align: center;
     }
 
     .logo {
-        margin: auto;
-        margin-bottom: 10%;
+        width: 90px;
+        margin-bottom: 30px;
+        margin-left: 150px;
     }
 
-    header {
-        margin-bottom: 15px;
-        text-align: center;
+    span {
+       display: none;
+    }
+
+    i{
+        font-size: 16px;
+    }
+
+    .link-bt{
+    width: 85px;
     }
 
 }
