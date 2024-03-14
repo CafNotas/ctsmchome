@@ -92,7 +92,7 @@ links.onclick = function clear() {
                 <img class="logo-op" src="./img/logo_prefeitura.png" alt="logo prefeitura">
             </div>
         </a>
-        <p class="m-title">DIÁRIO OFICIAL</p>
+        <p class="m-title">DIÁRIO<br> OFICIAL</p>
     </div>
 
     <div class="bt">
@@ -110,7 +110,7 @@ links.onclick = function clear() {
                 <img class="logo-op" src="./img/ANVISA.png" alt="logo Anvisa">
             </div>
         </a>
-        <p class="m-title">ANVISA MEDICAMENTOS</p>
+        <p class="m-title">ANVISA<br> MEDICAMENTOS</p>
     </div>
 
     <div class="bt">
@@ -119,7 +119,7 @@ links.onclick = function clear() {
                 <img class="logo-op" src="./img/ANVISA.png" alt="logo Anvisa">
             </div>
         </a>
-        <p class="m-title">ANVISA CORRELATOS</p>
+        <p class="m-title">ANVISA <br>CORRELATOS</p>
     </div>
 </div>`;
 }
@@ -141,7 +141,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE PROCESSOS</p>
+        <p class="m-title">CONTROLE DE <br>PROCESSOS</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1vVeHCPjhsgQHqvi018Kl4SmBvOG3EG9LWtYmr8lk40I/edit#gid=0" target="_blank">
@@ -152,7 +152,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE LICITAÇÕES</p>
+        <p class="m-title">CONTROLE DE <br>LICITAÇÕES</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1Kfvj683CH2Dim3jFR5WbQWUMU3V1hGWhKiaFQFybJnc/edit#gid=0" target="_blank">
@@ -163,7 +163,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE ORDENS DE FORNECIMENTO</p>
+        <p class="m-title">CONTROLE DE ORDENS <br>DE FORNECIMENTO</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
@@ -174,7 +174,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE ESTOQUE E AQUISIÇÃO</p>
+        <p class="m-title">CONTROLE DE <br>ESTOQUE E AQUISIÇÃO</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
@@ -185,7 +185,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">DASHBOARD DE FORNECIMENTO</p>
+        <p class="m-title">DASHBOARD DE<br> FORNECIMENTO</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
@@ -196,7 +196,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">RELATÓRIO DE RECEBIMENTO</p>
+        <p class="m-title">RELATÓRIO DE<br> RECEBIMENTO</p>
     </div>
     <div class="bt">
     <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
@@ -207,7 +207,7 @@ notas.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">LISTA DE ENTREGAS AGENDADAS</p>
+    <p class="m-title">LISTA DE <br>ENTREGAS AGENDADAS</p>
 </div>
     </div>`
 }
@@ -264,7 +264,7 @@ logistc.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE B.E.B.R.</p>
+        <p class="m-title">CONTROLE <br>DE B.E.B.R.</p>
     </div>
 
     <div class="bt">
@@ -276,7 +276,7 @@ logistc.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">INFORME DE ROTA</p>
+    <p class="m-title">INFORME <br>DE ROTA</p>
 </div>
 
 </div>`;
@@ -299,7 +299,7 @@ farm.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">SISTEMA DE INFORMAÇÕES P.N.M</p>
+    <p class="m-title">SISTEMA DE <br>INFORMAÇÕES P.N.M</p>
 </div>
 
 <div class="bt">
@@ -311,7 +311,7 @@ farm.onclick = function clear() {
 
     </div>
 </a>
-<p class="m-title">CTSMC - COMPONENTE ESTRATÉGICO</p>
+<p class="m-title">CTSMC - COMPONENTE<br> ESTRATÉGICO</p>
 </div>
 
 <div class="bt">
@@ -323,7 +323,7 @@ farm.onclick = function clear() {
 
     </div>
 </a>
-<p class="m-title">RESPONSABILIDADE TÉCNICA</p>
+<p class="m-title">RESPONSABILIDADE <br>TÉCNICA</p>
 </div>
 
 <div class="bt">
@@ -335,7 +335,7 @@ farm.onclick = function clear() {
 
     </div>
 </a>
-<p class="m-title">MEDICAMENTOS PARA PARKINSON</p>
+<p class="m-title">MEDICAMENTOS <br>PARA PARKINSON</p>
 </div>
 
 </div>`;
@@ -356,7 +356,7 @@ farm.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">RECEBIMENTO DE PEDIDOS MENSAIS</p>
+        <p class="m-title">RECEBIMENTO DE <br>PEDIDOS MENSAIS</p>
         
     </div>
     <div class="bt">
@@ -368,7 +368,7 @@ farm.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE PEDIDOS MENSAIS</p>
+        <p class="m-title">CONTROLE DE <br>PEDIDOS MENSAIS</p>
         
     </div>
     <div class="bt">
@@ -380,7 +380,7 @@ farm.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE PACIENTES - CURATIVOS</p>
+        <p class="m-title">CONTROLE DE <br>PACIENTES - CURATIVOS</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1BsyGmwzFiha4hOE0LijC3mITu9YHRr5i2pYvw0gVScA/edit#gid=0" target="_blank">
@@ -391,7 +391,7 @@ farm.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CTSMC - DADOS E ESTATÍSTICA</p>
+        <p class="m-title">CTSMC - DADOS <br>E ESTATÍSTICA</p>
     </div>
     <div class="bt">
     <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1ey5UvYK4HZawcz6A8ogoaruT6l2t4VPjrBEDern_W3U/edit#gid=611076321" target="_blank">
@@ -402,7 +402,7 @@ farm.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">ACOMPANHAMENTO DE PEDIDOS</p>
+    <p class="m-title">ACOMPANHAMENTO <br>DE PEDIDOS</p>
 </div>
 
     `;
@@ -423,7 +423,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE PROCESSOS</p>
+        <p class="m-title">CONTROLE DE <br>PROCESSOS</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1vVeHCPjhsgQHqvi018Kl4SmBvOG3EG9LWtYmr8lk40I/edit#gid=0" target="_blank">
@@ -434,7 +434,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE LICITAÇÕES</p>
+        <p class="m-title">CONTROLE DE <br>LICITAÇÕES</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1Kfvj683CH2Dim3jFR5WbQWUMU3V1hGWhKiaFQFybJnc/edit#gid=0" target="_blank">
@@ -445,7 +445,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE ORDENS DE FORNECIMENTO</p>
+        <p class="m-title">CONTROLE DE ORDENS <br>DE FORNECIMENTO</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
@@ -456,7 +456,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE ESTOQUE E AQUISIÇÃO</p>
+        <p class="m-title">CONTROLE DE ESTOQUE<br> E AQUISIÇÃO</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
@@ -467,7 +467,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">DASHBOARD DE FORNECIMENTO</p>
+        <p class="m-title">DASHBOARD DE <br>FORNECIMENTO</p>
     </div>
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
@@ -478,7 +478,7 @@ notas.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">RELATÓRIO DE RECEBIMENTO</p>
+        <p class="m-title">RELATÓRIO DE <br>RECEBIMENTO</p>
     </div>
     <div class="bt">
     <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
@@ -489,7 +489,7 @@ notas.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">LISTA DE ENTREGAS AGENDADAS</p>
+    <p class="m-title">LISTA DE <br>ENTREGAS AGENDADAS</p>
 </div>
     </div>`
 }
@@ -525,7 +525,7 @@ logistc.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">DASHBOARD DE FORNECIMENTO</p>
+        <p class="m-title">DASHBOARD DE <br>FORNECIMENTO</p>
     </div>
 
     <div class="bt">
@@ -537,7 +537,7 @@ logistc.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">RELATÓRIO DE RECEBIMENTO</p>
+        <p class="m-title">RELATÓRIO DE <br>RECEBIMENTO</p>
     </div>
     <div class="bt">
     <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
@@ -548,7 +548,7 @@ logistc.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">LISTA DE ENTREGAS AGENDADAS</p>
+    <p class="m-title">LISTA DE <br>ENTREGAS AGENDADAS</p>
 </div>
 
 <div class="bt">
@@ -572,7 +572,7 @@ logistc.onclick = function clear() {
 
             </div>
         </a>
-        <p class="m-title">CONTROLE DE ESTOQUE E AQUISIÇÃO</p>
+        <p class="m-title">CONTROLE DE <br>ESTOQUE E AQUISIÇÃO</p>
     </div>
 
     <div class="bt">
@@ -584,7 +584,7 @@ logistc.onclick = function clear() {
 
     </div>
 </a>
-<p class="m-title">RESPONSABILIDADE TÉCNICA</p>
+<p class="m-title">RESPONSABILIDADE <br>TÉCNICA</p>
 </div>
 
     </div>`;
