@@ -346,15 +346,35 @@ footer {
 @media (max-width:800px) {
     span {
         display: none;
-     }
     }
-    
+
+    #logado {
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+    .logo {
+        width: 90px;
+        margin-bottom: 30px;
+        margin-left: 150px;
+    }
+
+    header{
+        padding: 0 0 10px 0;
+    }
+
+    .content{
+        margin-left: -20px;
+    }
+
+}
+
 @media (max-width:376px) {
     html {
         font-size: 0.5rem;
     }
 
-    header{
+    header {
         padding: 0 0 10px 0;
 
     }
@@ -376,15 +396,15 @@ footer {
     }
 
     span {
-       display: none;
+        display: none;
     }
 
-    i{
+    i {
         font-size: 16px;
     }
 
-    .link-bt{
-    width: 85px;
+    .link-bt {
+        width: 85px;
     }
 
 }
