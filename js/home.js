@@ -207,7 +207,7 @@ notas.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">LISTA DE <br>ENTREGAS AGENDADAS</p>
+    <p class="m-title">LISTA DE <br>NOTAS FATURADAS</p>
 </div>
     </div>`
 }
@@ -489,7 +489,7 @@ notas.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">LISTA DE <br>ENTREGAS AGENDADAS</p>
+    <p class="m-title">LISTA DE <br>NOTAS FATURADAS</p>
 </div>
     </div>`
 }
@@ -548,7 +548,7 @@ logistc.onclick = function clear() {
 
         </div>
     </a>
-    <p class="m-title">LISTA DE <br>ENTREGAS AGENDADAS</p>
+    <p class="m-title">LISTA DE <br>NOTAS FATURADAS</p>
 </div>
 
 <div class="bt">
