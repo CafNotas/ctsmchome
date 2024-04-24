@@ -123,6 +123,9 @@ i {
 	background-color: transparent;
 	transition: all 0.7s;
 }
+#navbarSupportedContent>ul>li.active>i{
+	color: var(--orange);
+}
 #navbarSupportedContent a:not(:only-child):after {
 	content: "\f105";
 	position: absolute;
