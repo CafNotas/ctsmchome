@@ -227,6 +227,9 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">RELATÓRIO DE<br> RECEBIMENTO</p>
     </div>
+
+
+
     <div class="bt">
     <a class="link-bt" href="https://lookerstudio.google.com/reporting/8178da71-f0f8-4d74-be55-c86e78c068bb/page/EijkD" target="_blank">
         <div>
@@ -487,6 +490,19 @@ notas.onclick = function clear() {
         </a>
         <p class="m-title">CONTROLE DE ESTOQUE<br> E AQUISIÇÃO</p>
     </div>
+
+    <div class="bt">
+    <a class="link-bt" href="https://docs.google.com/spreadsheets/d/12wZFdK-OZtVdjdblo9anzPEUcmKUl7clcP8hV2KJ-8I/edit?gid=1105577122#gid=1105577122" target="_blank">
+        <div>
+            <img class="logo-pln"
+                src="./img/logPln.png"
+                alt="logo PLANILHA">
+
+        </div>
+    </a>
+    <p class="m-title">CONTROLE DE NOTAS<br> PARA PAGAMENTO</p>
+</div>
+
     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/a618f8ec-c47e-4045-a14c-46457bec4205/page/y76jD" target="_blank">
             <div>
@@ -497,8 +513,10 @@ notas.onclick = function clear() {
             </div>
         </a>
         <p class="m-title">DASHBOARD DE <br>FORNECIMENTO</p>
+
     </div>
-    <div class="bt">
+
+     <div class="bt">
         <a class="link-bt" href="https://lookerstudio.google.com/reporting/9e61566a-2df4-4b53-bd75-90b615c1a589/page/awzqD" target="_blank">
             <div>
                 <img class="logo-op"
@@ -581,6 +599,30 @@ logistc.onclick = function clear() {
 </div>
 
 <div class="bt">
+    <a class="link-bt" href="https://lookerstudio.google.com/u/1/reporting/2ec1156d-7ef0-4557-855a-b5430c1a3a01/page/BkF2D" target="_blank">
+        <div>
+            <img class="logo-op"
+                src="./img/pend.png"
+                alt="logo Pencencia">
+
+        </div>
+    </a>
+    <p class="m-title">RELATÓRIO DE <br>PENDÊNCIAS</p>
+    </div>
+
+    <div class="bt">
+    <a class="link-bt" href="https://lookerstudio.google.com/u/0/reporting/395f1a3a-23ef-4788-8b52-abf296a1a868/page/gQD5D" target="_blank">
+        <div>
+            <img class="logo-op"
+                src="./img/PAGNF.png"
+                alt="logo NF PAGAMENTO">
+
+        </div>
+    </a>
+    <p class="m-title">NOTAS ENVIADAS <br>PARA PAGAMENTO</p>
+    </div>
+
+<div class="bt">
 <a class="link-bt" href="https://lookerstudio.google.com/reporting/38de69fb-f531-4a4a-b509-eb8721dd13fe/page/orwsD" target="_blank">
     <div>
         <img class="logo-pln"
@@ -593,18 +635,6 @@ logistc.onclick = function clear() {
 </div>
 
 <div class="bt">
-        <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1qnzvqzIOjq6YIdEVTE_EP46mrLHFuk-8jMXe1cs0dwg/edit#gid=1040219886" target="_blank">
-            <div>
-                <img class="logo-pln"
-                    src="./img/logPln.png"
-                    alt="logo PLANILHA">
-
-            </div>
-        </a>
-        <p class="m-title">CONTROLE DE <br>ESTOQUE E AQUISIÇÃO</p>
-    </div>
-
-    <div class="bt">
 <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1E9WnXNCCtgfXAoG1-v1V3jVPMqFV1JZC1SdaXaGcm5Q/edit#gid=835047668" target="_blank">
     <div>
         <img class="logo-pln"
