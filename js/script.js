@@ -370,7 +370,7 @@ farm.onclick = function clear() {
 <p class="m-title">MEDICAMENTOS <br>PARA PARKINSON</p>
 </div>
 
-</div>
+
 
 <div class="bt">
 <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1cKt-Ni9F_kIG8nNJGzfupVBbKKzkiLhtJeQ8026IJJ8/edit?gid=0#gid=0" target="_blank">
@@ -382,6 +382,8 @@ farm.onclick = function clear() {
     </div>
 </a>
 <p class="m-title">CÓDIGOS BR <br>PADRONIZADOS</p>
+</div>
+
 </div>
 
 </div>`;
