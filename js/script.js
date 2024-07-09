@@ -372,6 +372,7 @@ farm.onclick = function clear() {
 
 
 
+
 <div class="bt">
 <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1cKt-Ni9F_kIG8nNJGzfupVBbKKzkiLhtJeQ8026IJJ8/edit?gid=0#gid=0" target="_blank">
     <div>
