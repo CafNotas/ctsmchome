@@ -648,8 +648,21 @@ logistc.onclick = function clear() {
 
     </div>
 </a>
+<p class="m-title">NOTIFICAÇÕES</p>
+</div>
+
+<div class="bt">
+<a class="link-bt" href="https://lookerstudio.google.com/reporting/8afa928a-e59f-4867-8941-6d4296d17bc2/page/9XVCE" target="_blank">
+    <div>
+        <img class="logo-pln"
+            src="./img/NOT.png"
+            alt="Notificação">
+
+    </div>
+</a>
 <p class="m-title">INFORME <br> DE ROTA</p>
 </div>
+
 
 <div class="bt">
 <a class="link-bt" href="https://docs.google.com/spreadsheets/d/1E9WnXNCCtgfXAoG1-v1V3jVPMqFV1JZC1SdaXaGcm5Q/edit#gid=835047668" target="_blank">
