@@ -648,7 +648,7 @@ logistc.onclick = function clear() {
 
     </div>
 </a>
-<p class="m-title">NOTIFICAÇÕES</p>
+<p class="m-title">INFORME <br> DE ROTA</p>
 </div>
 
 <div class="bt">
@@ -660,7 +660,7 @@ logistc.onclick = function clear() {
 
     </div>
 </a>
-<p class="m-title">INFORME <br> DE ROTA</p>
+<p class="m-title">NOTIFICAÇÕES</p>
 </div>
 
 
