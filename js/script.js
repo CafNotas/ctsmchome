@@ -655,7 +655,7 @@ logistc.onclick = function clear() {
 <a class="link-bt" href="https://lookerstudio.google.com/reporting/8afa928a-e59f-4867-8941-6d4296d17bc2/page/9XVCE" target="_blank">
     <div>
         <img class="logo-pln"
-            src="./img/NOT.png"
+            src="./img/NOT.jpg"
             alt="Notificação">
 
     </div>
